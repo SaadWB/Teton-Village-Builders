@@ -18,7 +18,7 @@
       rgba(11, 19, 32, 0.72) 45%,
       rgba(11, 19, 32, 0.25) 100%
     ),
-    url("../assets/images/home/hero-construction.webp");
+    url("/assets/images/home/hero-construction.webp");
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
@@ -1300,7 +1300,7 @@
       rgba(11, 19, 32, 0.85) 50%,
       rgba(11, 19, 32, 0.4) 100%
     ),
-    url("../assets/images/home/cta-construction.webp");
+    url("/assets/images/home/cta-construction.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1448,7 +1448,7 @@
         rgba(11, 19, 32, 0.82) 50%,
         rgba(11, 19, 32, 0.92) 100%
       ),
-      url("../assets/images/home/hero-construction.webp");
+      url("/assets/images/home/hero-construction.webp");
   }
   .hero-content {
     margin: 0 auto;
